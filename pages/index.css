@@ -3,7 +3,14 @@
 @import url('../blocks/body/body.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/section/section.css');
+@import url('../blocks/section/__title/section__title.css');
+@import url('../blocks/section/__subtitle/section__subtitle.css');
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__langs/header__langs.css');
 @import url('../blocks/header/__lang-item/header__lang-item.css');
-@import url('../blocks/header/__lang-item/_focus/header__lang-item_focus.css');
+@import url('../blocks/header/__lang-item/_focused/header__lang-item_focused.css');
+@import url('../blocks/lead/lead.css');
+@import url('../blocks/lead/__title/lead__title.css');
+@import url('../blocks/lead/__subtitle/lead__subtitle.css');
+@import url('../blocks/lead/__image/lead__image.css');
+@import url('../blocks/lead/__caption/lead__caption.css');
