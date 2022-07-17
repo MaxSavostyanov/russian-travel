@@ -4,8 +4,14 @@
   align-items: center;
 }
 
+@media screen and (min-width: 1280px) {
+  .lead {
+    padding: 0 148px;
+  }
+}
+
 @media screen and (max-width: 1023px) {
   .lead {
-    width: 100vw;
+    padding: 0;
   }
 }

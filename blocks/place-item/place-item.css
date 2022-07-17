@@ -15,7 +15,7 @@
 
 @media screen and (max-width: 767px) {
   .place-item {
-      grid-template-columns: 100vw;
+      grid-template-columns: 100%;
       row-gap: 32px;
   }
 }
