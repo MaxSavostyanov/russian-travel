@@ -5,3 +5,9 @@
   align-items: flex-start;
   row-gap: 12px;
 }
+
+@media screen and (max-width: 767px) {
+  .place-item__website {
+    padding: 0 16px;
+  }
+}

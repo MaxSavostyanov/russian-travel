@@ -4,3 +4,9 @@
   padding-top: 32px;
   list-style: none;
 }
+
+@media screen and (max-width: 767px) {
+  .intro__list {
+    padding-top: 34px;
+  }
+}
