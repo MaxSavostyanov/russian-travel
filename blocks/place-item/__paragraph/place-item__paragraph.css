@@ -1,0 +1,12 @@
+.place-item__paragraph{
+  margin: 0;
+  margin-bottom: 26px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+}
+
+.place-item__paragraph:last-of-type {
+  margin-bottom: 0;
+}
