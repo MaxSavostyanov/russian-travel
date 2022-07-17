@@ -20,3 +20,9 @@
     min-height: 640px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .cover__link {
+    min-height: 480px;
+  }
+}

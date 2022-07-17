@@ -4,4 +4,8 @@
   align-items: center;
 }
 
-/*пробить родительский падинг отрицательным марджином*/
+@media screen and (max-width: 1023px) {
+  .lead {
+    width: 100vw;
+  }
+}

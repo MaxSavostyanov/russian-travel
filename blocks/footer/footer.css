@@ -5,3 +5,9 @@
   max-width: 100%;
   width: 100%;
 }
+
+@media screen and (max-width: 1023px) {
+  .footer {
+    padding-top: 88px;
+  }
+}
