@@ -1,8 +1,8 @@
-.page__link {
+.link {
   transition: opacity .25s ease-out;
 }
 
-.page__link:hover {
+.link:hover {
   opacity: .8;
   cursor: pointer;
 }

@@ -1,15 +1,18 @@
 @font-face {
   src: 
-    url('./Inter-Light.woff2') format('woff2'),
-    url('./Inter-Light.woff') format('woff');
+    url('./Inter-Regular.woff2') format('woff2'),
+    url('./Inter-Regular.woff') format('woff');
   font-family: 'Inter';
-  font-weight: normal;
+  font-weight: 400;
 }
-
+/*
+Воможно тут вы имели ввиду для жирности 700(а не 400) должно быть Bold
+оно используется только в одном месте, в списке секции intro
+*/
 @font-face {
   src: 
-    url('./Inter-SemiBold.woff2') format('woff2'),
-    url('./Inter-SemiBold.woff') format('woff');
+    url('./Inter-Bold.woff2') format('woff2'),
+    url('./Inter-Bold.woff') format('woff');
   font-family: 'Inter';
   font-weight: 700;
 }
