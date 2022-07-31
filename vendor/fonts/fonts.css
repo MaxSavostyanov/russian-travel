@@ -5,10 +5,7 @@
   font-family: 'Inter';
   font-weight: 400;
 }
-/*
-Воможно тут вы имели ввиду для жирности 700(а не 400) должно быть Bold
-оно используется только в одном месте, в списке секции intro
-*/
+
 @font-face {
   src: 
     url('./Inter-Bold.woff2') format('woff2'),
